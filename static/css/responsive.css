@@ -18,11 +18,16 @@
         justify-content: center;
     }
 
+    .leak-img-poster {
+        width: 22%;
+        margin: 5px;
+    }
+
     .section-2 {
         flex-direction: column;
     }
 
     .card {
-        right: 0; margin: auto;
+        right: 100px; margin: auto;
     }
 }
