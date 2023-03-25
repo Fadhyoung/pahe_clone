@@ -21,4 +21,8 @@
     .section-2 {
         flex-direction: column;
     }
+
+    .card {
+        right: 0; margin: auto;
+    }
 }
