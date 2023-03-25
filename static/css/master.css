@@ -1,0 +1,24 @@
+@import url(layout.css);
+@import url(component.css);
+@import url(responsive.css);
+
+*, *::after, *::before {
+    box-sizing: border-box;
+    padding: 0; margin: 0;
+}
+
+body {background-color: #161716;}
+
+@font-face {
+    font-family: lato;
+    src: url(../font/Lato/Lato-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(../font/Monserrat/Montserrat-SemiBold.ttf) format('truetype');
+}
+
+body {
+    font-family: Montserrat;
+}

@@ -1,0 +1,24 @@
+@media screen and (max-width: 1200px) {
+    .content-container {width: 90%;}
+    
+}
+
+@media screen and (max-width: 1000px) {
+
+    .content-container, .left-side, .right-side,
+    .leak-poster {
+        width: 100%;
+    }
+
+    .section-1 ul{
+        display: none;
+    }
+
+    .leak-poster {
+        justify-content: center;
+    }
+
+    .section-2 {
+        flex-direction: column;
+    }
+}

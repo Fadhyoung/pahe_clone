@@ -1,0 +1,26 @@
+.content-container {
+    width: 70%;
+    background-color: #262626;
+    margin: auto;
+    color: white;
+    height: auto;
+    position: relative;
+}
+
+.section-2 {
+    width: 100%;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.left-side {
+    width: 66.6%;
+    height: auto;
+}
+
+.right-side {
+    width: 33.3%;
+    height: auto;
+}
