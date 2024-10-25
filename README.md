@@ -1,4 +1,4 @@
-#FCLONE - PAHE Clone Project 2023
+FCLONE - PAHE Clone Project 2023
 ---------------------------------------------
 
 Fclone is my personal project that focuses on cloning the appearance of certain web apps and then adjusting them to make them more distinct based on my preferences.
